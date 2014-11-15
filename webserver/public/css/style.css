@@ -1,0 +1,29 @@
+ 
+body {
+	background: #3d3d3d;
+	text-align: center;
+	margin-top: 10%;
+}
+
+#wrapper {
+	width: 400px;
+	margin: 0 auto;
+}
+
+#videoCanvas {
+	background-color: black;
+}
+
+.k-slider.x-slider {
+	width: 320px;
+	
+}
+
+.k-slider.y-slider {
+	height: 240px;
+	position: absolute;
+}
+
+.k-content.k-gauge {
+	width: 200px;
+}
